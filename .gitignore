@@ -1,0 +1,17 @@
+# Environment files
+secragenv/
+.venv/
+.env
+
+# Cache files
+.cache/
+
+# Roadmap and extra files
+SecRAG_Roadmap.pdf
+
+# VS Code files
+.vscode/
+
+# Python generated files
+__pycache__/
+*.py[cod]
