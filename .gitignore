@@ -15,3 +15,7 @@ SecRAG_Roadmap.pdf
 # Python generated files
 __pycache__/
 *.py[cod]
+
+
+# Data 
+data/
